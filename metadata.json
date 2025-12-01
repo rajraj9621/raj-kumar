@@ -1,0 +1,5 @@
+{
+  "name": "CineMind AI",
+  "description": "An intelligent, ML-powered movie recommendation engine that understands your mood and taste using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
